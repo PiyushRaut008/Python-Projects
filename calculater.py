@@ -22,4 +22,3 @@ operation_done = operations[choice]
 value = operation_done(a, b)
 print(value)
 
-
