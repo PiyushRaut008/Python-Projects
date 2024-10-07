@@ -26,6 +26,7 @@ while not end:
         if lives == 0:
             end = True
             print("You Loose")
+            print(computer_choice)
     print(f"{' '.join(display)}")
     if "_" not in display:
         end = True
